@@ -188,12 +188,6 @@ npm run test:e2e
 - Maintain API documentation in `/docs`
 - Create examples and tutorials
 
-### Community
-- Join our [Discord server](https://discord.gg/gotham) for discussions
-- Follow [@GothamOS](https://twitter.com/GothamOS) for updates
-- Attend our monthly community calls
-- Participate in hackathons and challenges
-
 ### Recognition
 Contributors will be:
 - Listed in our CONTRIBUTORS.md file
@@ -201,9 +195,6 @@ Contributors will be:
 - Invited to exclusive events
 - Eligible for contributor swag
 
-## 📄 License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
 ## 🙏 Acknowledgments
 
@@ -213,13 +204,6 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 - **Supabase** for the amazing backend platform
 - **shadcn/ui** for beautiful UI components
 - **React Three Fiber** for 3D visualization capabilities
-
-## 📞 Support
-
-- **Documentation**: [docs.gotham-os.com](https://docs.gotham-os.com)
-- **Issues**: [GitHub Issues](https://github.com/yourusername/gotham/issues)
-- **Discussions**: [GitHub Discussions](https://github.com/yourusername/gotham/discussions)
-- **Email**: support@gotham-os.com
 
 ---
 
