@@ -14,7 +14,7 @@ export default function StatusBar({ status, isLoading }: StatusBarProps) {
     <div className="glass-panel flex items-center justify-between px-4 py-2 text-xs font-mono">
       <div className="flex items-center gap-2">
         <span className="font-heading text-sm font-semibold tracking-wider text-foreground">
-          EARTH-OS
+          Gotham
         </span>
         <span className="text-muted-foreground">v1.0.0</span>
         <div className={`h-2 w-2 rounded-full ${isLoading ? 'bg-warning animate-pulse' : 'bg-success'}`} />

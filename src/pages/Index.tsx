@@ -27,7 +27,7 @@ export default function Index() {
         <div className="absolute inset-0 z-50 flex flex-col items-center justify-center bg-background/80">
           <Loader2 className="h-8 w-8 animate-spin text-primary" />
           <p className="mt-4 font-heading text-sm tracking-widest text-muted-foreground">
-            INITIALIZING EARTH-OS
+            INITIALIZING Gotham
           </p>
           <p className="mt-1 font-mono text-xs text-muted-foreground">
             Connecting to planetary data feeds...

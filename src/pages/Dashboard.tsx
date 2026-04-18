@@ -172,7 +172,7 @@ export default function Dashboard() {
       <header className="absolute left-0 right-0 top-0 z-[1000] flex items-center justify-between border-b border-border bg-background/80 px-4 py-2 backdrop-blur">
         <div className="flex items-center gap-4">
           <Link to="/" className="font-heading text-sm font-bold tracking-widest text-primary">
-            EARTH-OS
+            Gotham
           </Link>
           <span className="font-mono text-[10px] uppercase text-muted-foreground">/ MISSION CONTROL</span>
         </div>

@@ -1,4 +1,4 @@
-// EARTH-OS Risk Score API
+// Gotham Risk Score API
 // Calibrated risk engine: distance × time × severity decay with multi-event aggregation.
 import { createClient, SupabaseClient } from "https://esm.sh/@supabase/supabase-js@2.49.1";
 

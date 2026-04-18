@@ -194,7 +194,7 @@ export default function ApiDocs() {
   return (
     <div className="min-h-screen bg-background text-foreground">
       <nav className="fixed top-0 w-full z-50 glass-panel border-b border-border/30 px-6 py-3 flex items-center gap-6">
-        <span className="font-heading text-lg tracking-wider text-primary">EARTH-OS</span>
+        <span className="font-heading text-lg tracking-wider text-primary">Gotham</span>
         <div className="flex gap-4 ml-auto">
           <NavLink to="/">Globe</NavLink>
           <NavLink to="/events">Events</NavLink>

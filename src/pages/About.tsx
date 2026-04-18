@@ -9,7 +9,7 @@ export default function About() {
           <Link to="/" className="glass-panel rounded-lg p-2 hover:bg-accent transition-colors">
             <ArrowLeft className="h-4 w-4 text-muted-foreground" />
           </Link>
-          <h1 className="font-heading text-xl font-bold tracking-tight">About EARTH-OS</h1>
+          <h1 className="font-heading text-xl font-bold tracking-tight">About Gotham</h1>
         </div>
 
         <div className="space-y-6">
@@ -19,7 +19,7 @@ export default function About() {
               <h2 className="font-heading text-lg font-semibold">Open Planetary Defense System</h2>
             </div>
             <p className="text-sm text-muted-foreground leading-relaxed">
-              EARTH-OS is a real-time planetary intelligence and disaster prediction platform.
+              Gotham is a real-time planetary intelligence and disaster prediction platform.
               It aggregates global environmental data, detects anomalies, and provides actionable
               intelligence to make natural disasters more predictable, visible, and actionable.
             </p>
