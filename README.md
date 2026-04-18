@@ -5,7 +5,7 @@
 
 **Gotham** is a real-time planetary intelligence and disaster prediction platform that provides comprehensive monitoring and risk assessment for global environmental threats. Built with modern web technologies, Gotham visualizes earthquakes, wildfires, and air quality data on an interactive 3D globe, offering predictive analytics and early warning systems for planetary defense.
 
-![Gotham Dashboard]<img width="1340" height="626" alt="image" src="https://github.com/user-attachments/assets/e10922e3-d7cf-4ec9-a381-8ba5736cfdb5" />
+<img width="1340" height="626" alt="image" src="https://github.com/user-attachments/assets/e10922e3-d7cf-4ec9-a381-8ba5736cfdb5" />
 
 
 The name implies a tool meant for a "city that needs a vigilante" or a place where institutional systems have failed and specialized intelligence is required.
